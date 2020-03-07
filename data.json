@@ -1,0 +1,30 @@
+{
+"details":{
+	"image":"Koala.jpg",
+	"name":"chaitanya lalshmi",
+	"email":"chaiut.kutumbarao@gmail.com",
+	"phonenumber":"9550567484",
+	"address":"kurmannapalem"
+	},
+	"career":{
+		"info":"hi hello"
+	},
+	"education":[{
+		"institute":"Vignans institute of engineering for women",
+		"degree":"B.tech",
+		"year_of_passing":"2022",
+		"score":"9.25"},
+	{
+		"institute":"sri gyt cllg",
+		"degree":"intermediate",
+		"year_of_passing":"2018",
+		"score":"975"
+	},
+	{
+		"institute":"10th",
+		"degree":"CBSE",
+		"year_of_passing":"2016",
+		"score":"10"
+	}
+]
+}
